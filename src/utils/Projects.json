@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Furniture store landing page",
+    "image": "project1.png",
+    "description": "Responsive HTML/CSS layout for online furniture store. HTML5, CSS3 (SCSS)",
+    "githubLink": "https://github.com/example/project1"
+  },
+  {
+    "name": "Designer furniture store landing page",
+    "image": "assets/project2.png",
+    "description": "Responsive HTML/CSS layout for online store of designer furniture. HTML5, CSS3 (SCSS)",
+    "githubLink": "https://github.com/example/project2"
+  },
+  {
+    "name": "Landing page for front-end developer",
+    "image": "assets/project3.png",
+    "description": "Responsive HTML/CSS layout for landing page for front-end developer. HTML5, CSS3 (SCSS)",
+    "githubLink": "https://github.com/example/project3"
+  },
+  {
+    "name": "Website redesign for The Venus project",
+    "image": "assets/project4.png",
+    "description": "Responsive HTML/CSS layout for The Venus project. HTML5, CSS3 (SCSS)",
+    "githubLink": "https://github.com/example/project4"
+  },
+  {
+    "name": "Landing page for front-end developer",
+    "image": "assets/project3.png",
+    "description": "Responsive HTML/CSS layout for landing page for front-end developer. HTML5, CSS3 (SCSS)",
+    "githubLink": "https://github.com/example/project3"
+  },
+  {
+    "name": "Website redesign for The Venus project",
+    "image": "assets/project4.png",
+    "description": "Responsive HTML/CSS layout for The Venus project. HTML5, CSS3 (SCSS)",
+    "githubLink": "https://github.com/example/project4"
+  }
+]

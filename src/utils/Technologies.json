@@ -1,0 +1,38 @@
+[
+    {
+      "name": "HTML",
+      "proficiency": "Advanced",
+      "progressBarWidth": "100%"
+    },
+    {
+      "name": "CSS, Sass & Bootstrap",
+      "proficiency": "Advanced",
+      "progressBarWidth": "100%"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "Advanced",
+      "progressBarWidth": "100%"
+    },
+    {
+      "name": "UI design in Figma",
+      "proficiency": "Advanced",
+      "progressBarWidth": "75%"
+    },
+    {
+      "name": "Angular",
+      "proficiency": "Advanced",
+      "progressBarWidth": "50%"
+    },
+    {
+      "name": "React",
+      "proficiency": "Advanced",
+      "progressBarWidth": "90%"
+    },
+    {
+      "name": "React Native",
+      "proficiency": "Advanced",
+      "progressBarWidth": "100%"
+    }
+  ]
+  
